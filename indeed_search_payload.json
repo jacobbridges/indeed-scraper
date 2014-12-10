@@ -1,0 +1,17 @@
+var payload = {
+	as_and : 'node', // With all of these words
+	as_phr : '',     // With the exact phrase
+	as_any : '',     // With at least one of these words
+	as_not : '',     // With none of these words
+	as_ttl : '',     // With these words in the title
+	as_cmp : '',     // From this company
+	jt : 'all',
+	st : '',
+	salary : '',
+	radius : '25',
+	l : 'Philadelphia, PA',
+	fromage : 'any',
+	limit : '10',
+	sort : '',
+	psf : 'advsrch'
+}
